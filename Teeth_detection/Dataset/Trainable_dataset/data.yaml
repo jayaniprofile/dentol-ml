@@ -1,0 +1,6 @@
+train : /content/drive/MyDrive/Final_Year/Implementation/Teeth_detection/Dataset/Trainable_dataset/train/images
+val   : /content/drive/MyDrive/Final_Year/Implementation/Teeth_detection/Dataset/Trainable_dataset/valid/images
+test  : /content/drive/MyDrive/Final_Year/Implementation/Teeth_detection/Dataset/Trainable_dataset/test/images
+
+nc : 1
+names : ['tooth']
